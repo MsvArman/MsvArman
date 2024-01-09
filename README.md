@@ -8,15 +8,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.hoseinmdev@gmail.com&su=Subject">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.mousavi06arman@gmail.com&su=Subject">
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
                
   </a>
-<a href="https://t.me/hoseineMahmoudi">
+<a href="https://t.me/msvarman">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://wa.me/+989378151319?text=Hello!" target="blank">
+<a href="https://wa.me/+989981498389?text=Hello!" target="blank">
   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
 </a>
 </p>
