@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.mousavi06arman@gmail.com&su=Subject">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mousavi06arman@gmail.com&su=Subject">
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
                
   </a>
