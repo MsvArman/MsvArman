@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=25&duration=3000&pause=1000&color=0AB177&background=53FFDB00&vCenter=true&multiline=true&repeat=false&width=274&height=58&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Back-End+Developer)](#)
 
-- 👨‍💻 I'm junior Back end developer
+- 👨‍💻 I'm Back end developer
 - 🌱 I’m currently working on **php** 
 - 📫 How to reach me **mousavi06arman@gmail.com**
 
