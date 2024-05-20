@@ -14,7 +14,7 @@
   </a>
 <a href="https://t.me/msvarman">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+</a> 
 
 <a href="https://wa.me/+989981498389?text=Hello!" target="blank">
   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
