@@ -130,64 +130,7 @@ fun_fact: Started by asking "why should employees trust employers?"
   <sub><i>It eats my contribution grid for breakfast 🍽️</i></sub>
 </div>
 
-<details>
-<summary><b>🔧 How to activate the snake (one-time setup)</b></summary>
 
-1. Add a GitHub Action `.github/workflows/snake.yml` using `Platane/snk@v3`
-2. Enable GitHub Pages on the `output` branch
-3. Push — the animation generates itself automatically ✅
-
-</details>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284089-5d6cfdff-6a1b-4a7d-a45e-2e2a2a2f0f24.gif" width="30"> Engineering Principles
-
-<details>
-<summary><b>🏛️ Architecture — my personal doctrine</b></summary>
-<br/>
-
-- **SOLID** is not a buzzword — it's a survival kit for 3 a.m. production incidents.
-- **MVC done right**: thin controllers, fat domain, dumb views.
-- **Design Patterns** are vocabulary, not decoration. Pick the simplest one that dies last.
-- **TDD**: write the failing test that proves you understood the problem. If you can't write it, you don't understand it.
-- **OOP**: model the real world only when the real world is actually simple. It rarely is — abstract accordingly.
-
-</details>
-
-<details>
-<summary><b>🦆 CS50 & the Duck Engineer lore</b></summary>
-<br/>
-
-> Every engineer needs a duck. Mine happens to be a very patient one. 🦆
-
-- Completed **CS50** — where I learned that "it works on my machine" is a confession, not an excuse.
-- The duck has debugged: memory leaks, race conditions, one divorce between two microservices, and a query that took 47 minutes (now 0.3s).
-- Rule #1: Explain the bug to the duck out loud. Rule #2: The duck is always right.
-- The duck's favorite quote: *"Talk is cheap. Show me the code."* — Linus Torvalds
-
-</details>
-
-<details>
-<summary><b>⚙️ Daily driver principles</b></summary>
-<br/>
-
-```python
-class ArmanMousavi:
-    def solve(self, problem):
-        understanding = self.ask_why(problem)      # never skip
-        design = self.design_first(understanding)  # SOLID + simplest
-        code = self.tdd(design)                    # red → green → refactor
-        return self.ship_and_own(code)             # ownership ≠ deploy
-```
-
-- Ship small, ship often, own what you ship.
-- Read other people's code more than you write your own.
-- If the docs are bad, that's a bug — file it or fix it.
-
-</details>
-
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212280881-9d4075db-b929-4d6b-9d9d-9f5b2d0d0b1a.gif" width="30"> Let's Connect
 
