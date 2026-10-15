@@ -69,7 +69,7 @@ fun_fact: Started by asking "why should employees trust employers?"
 |:---:|:---:|:---:|:---:|
 | PHP · Laravel | React · jQuery | MySQL · MongoDB | SOLID |
 | Python · Django | HTML · CSS · Bootstrap | SQL · Redis | MVC |
-| WordPress | UI/UX · Figma | | OOP · TDD · Design Patterns |
+|  | UI/UX · Figma | | OOP · TDD · Design Patterns |
 
 </div>
 
@@ -93,10 +93,6 @@ fun_fact: Started by asking "why should employees trust employers?"
 
 
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MsvArman&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="Trophies"/>
-</div>
 
 <details open>
 <summary><b>⚡ Live Metrics (verbatim & animated)</b></summary>
