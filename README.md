@@ -90,9 +90,7 @@ fun_fact: Started by asking "why should employees trust employers?"
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MsvArman&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=38BDF8&point=F472B6&area=true&area_color=1E1B4B" width="100%" alt="Contribution graph"/>
-</div>
+
 
 <br/>
 
@@ -116,20 +114,6 @@ fun_fact: Started by asking "why should employees trust employers?"
 </details>
 
 ---
-
-
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294019-40079312-6fcb-4b22-972e-d69215d4afe9.gif" width="30"/> The Snake is Hungry 🐍
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MsvArman/MsvArman/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MsvArman/MsvArman/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/MsvArman/MsvArman/output/github-snake-dark.svg" width="100%" alt="snake animation"/>
-  </picture>
-  <sub><i>It eats my contribution grid for breakfast 🍽️</i></sub>
-</div>
-
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212280881-9d4075db-b929-4d6b-9d9d-9f5b2d0d0b1a.gif" width="30"> Let's Connect
