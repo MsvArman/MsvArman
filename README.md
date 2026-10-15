@@ -117,54 +117,7 @@ fun_fact: Started by asking "why should employees trust employers?"
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4da2-a9ca-6bcd1637d769.gif" width="30"/> Featured Engineering — System Architecture
 
-> Systems I designed & shipped for real organizations: brokerage operations, insurance, financial analysis & HR tech.
-
-<div align="center">
-
-```
-                     ┌──────────────────────────────────────┐
-                     │        NOVIN IB · Management         │
-                     │   Brokerage Operations Dashboard     │
-                     └───────────────┬──────────────────────┘
-             ┌───────────────────────┼────────────────────────┐
-             ▼                       ▼                        ▼
-   ┌──────────────────┐   ┌──────────────────┐    ┌──────────────────┐
-   │  Pre-Trade Flow  │   │   Live Trading   │    │  Post-Trade Ops  │
-   │  Approval & CRM  │   │  Execution Queue │    │ Archival · Audit │
-   └────────┬─────────┘   └────────┬─────────┘    └────────┬─────────┘
-            └──────────────────────┼───────────────────────┘
-                                   ▼
-                    ┌──────────────────────────────┐
-                    │  Reports · Doc Automation    │
-                    │  Financial Position Notify   │
-                    │  Distributed (All Branches)  │
-                    └──────────────────────────────┘
-```
-
-</div>
-
-<details>
-<summary><b>📦 Project Cards (click to expand)</b></summary>
-<br/>
-
-| Project | Client | What it does |
-|---|---|---|
-| **MC CRM** | Mellat Insurance | Customer relationship & process management system |
-| **Tavanaap** | Tavana Financial Group | Knowledge-based startup: smart software, market data analysis, ML-driven insights — [ta1app.com](https://ta1app.com) |
-| **Document Tracking** | Tavana HR | Trust-theory system based on Axelrod's Prisoner's Dilemma — [msvarman.github.io](https://msvarman.github.io) |
-| **NovinIB Dashboard** | Novin Securities | Full brokerage trade lifecycle: approval, execution, archival, auto docs, financial alerts |
-| **Client Services Portal** | Rayan Hamafza | Unified electronic order & ticketing integrated with the corporate website |
-| **CRM Dashboard** | Novin Securities / Advisors | Customer relationship management & trade strategy design |
-| **Portfolio Analysis** | Novin Securities | Fund portfolio analysis & dividend evaluation system |
-| **AloBoorse** | Dr. Mohammad Morfaiz | Stock market platform — [aloboorse.com](https://www.aloboorse.com) |
-| **Game Servers** | Iran RolePlay · PersianCity | Multiplayer game infrastructure |
-| **WinnerBazi** | Karo Studio | Two-player online game with rich feature set |
-
-</details>
-
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294019-40079312-6fcb-4b22-972e-d69215d4afe9.gif" width="30"/> The Snake is Hungry 🐍
 
