@@ -9,7 +9,7 @@
 <!-- ─── Typing SVG banner ──────────────────────────────────── -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+Developer+%7C+5%2B+Years+of+Craft;PHP+%E2%9A%A1+Laravel+%E2%9A%A1+React+%E2%9A%A1+Python+%E2%9A%A1+Django;I+build+systems+that+solve+real+problems.;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+TDD;CS50+Graduate+%7C+Duck+Engineer+%F0%9F%A6%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+Developer+%7C+5%2B+Years+of+Craft;PHP+%E2%9A%A1+Laravel+%E2%9A%A1+React+%E2%9A%A1+Python+%E2%9A%A1+build+systems+that+solve+real+problems.;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+TDD;CS50+Graduate+%7C+Duck+Engineer+%F0%9F%A6%86" alt="Typing SVG" />
   </a>
 </div>
 
@@ -45,10 +45,8 @@ fun_fact: Started by asking "why should employees trust employers?"
 ```
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MsvArman/count.svg" alt="visitors"/>
-  &nbsp;&nbsp;
+  
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00b894?style=flat-square&labelColor=0d1117" alt="status"/>
-  <img src="https://img.shields.io/badge/Coffee-%E2%88%9E%20cups-f39c12?style=flat-square&labelColor=0d1117&logo=buymeacoffee" alt="coffee"/>
 </div>
 
 ---
@@ -68,8 +66,8 @@ fun_fact: Started by asking "why should employees trust employers?"
 | 🏛️ **Backend** | 🎨 **Frontend** | 🗄️ **Data** | 🧠 **Principles** |
 |:---:|:---:|:---:|:---:|
 | PHP · Laravel | React · jQuery | MySQL · MongoDB | SOLID |
-| Python · Django | HTML · CSS · Bootstrap | SQL · Redis | MVC |
-|  | UI/UX · Figma | | OOP · TDD · Design Patterns |
+| Python | HTML · CSS · Bootstrap | SQL · Redis | MVC |
+| Lua | UI/UX · Figma | | OOP · TDD · Design Patterns |
 
 </div>
 
@@ -119,9 +117,6 @@ fun_fact: Started by asking "why should employees trust employers?"
   <a href="mailto:mousavi06arman@gmail.com"><img src="https://img.shields.io/badge/✉️_Say_Hi-mousavi06arman%40gmail.com-EA4335?style=for-the-badge&labelColor=0D1117" alt="email"/></a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MsvArman&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" alt="views"/>
-</div>
 
 <br/>
 
